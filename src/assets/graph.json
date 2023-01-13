@@ -1,0 +1,4162 @@
+{
+  "대화": [
+    {
+      "line_num": "03호선",
+      "station_nm": "주엽",
+      "fr_code": "310"
+    }
+  ],
+  "주엽": [
+    {
+      "line_num": "03호선",
+      "station_nm": "대화",
+      "fr_code": "309"
+    },
+    {
+      "line_num": "03호선",
+      "station_nm": "정발산",
+      "fr_code": "311"
+    }
+  ],
+  "정발산": [
+    {
+      "line_num": "03호선",
+      "station_nm": "주엽",
+      "fr_code": "310"
+    },
+    {
+      "line_num": "03호선",
+      "station_nm": "마두",
+      "fr_code": "312"
+    }
+  ],
+  "마두": [
+    {
+      "line_num": "03호선",
+      "station_nm": "정발산",
+      "fr_code": "311"
+    },
+    {
+      "line_num": "03호선",
+      "station_nm": "백석",
+      "fr_code": "313"
+    }
+  ],
+  "백석": [
+    {
+      "line_num": "03호선",
+      "station_nm": "마두",
+      "fr_code": "312"
+    },
+    {
+      "line_num": "03호선",
+      "station_nm": "대곡",
+      "fr_code": "314"
+    }
+  ],
+  "대곡": [
+    {
+      "line_num": "03호선",
+      "station_nm": "백석",
+      "fr_code": "313"
+    },
+    {
+      "line_num": "03호선",
+      "station_nm": "화정",
+      "fr_code": "315"
+    }
+  ],
+  "화정": [
+    {
+      "line_num": "03호선",
+      "station_nm": "대곡",
+      "fr_code": "314"
+    },
+    {
+      "line_num": "03호선",
+      "station_nm": "원당",
+      "fr_code": "316"
+    }
+  ],
+  "원당": [
+    {
+      "line_num": "03호선",
+      "station_nm": "화정",
+      "fr_code": "315"
+    },
+    {
+      "line_num": "03호선",
+      "station_nm": "원흥",
+      "fr_code": "317"
+    }
+  ],
+  "원흥": [
+    {
+      "line_num": "03호선",
+      "station_nm": "원당",
+      "fr_code": "316"
+    },
+    {
+      "line_num": "03호선",
+      "station_nm": "삼송",
+      "fr_code": "318"
+    }
+  ],
+  "삼송": [
+    {
+      "line_num": "03호선",
+      "station_nm": "원흥",
+      "fr_code": "317"
+    },
+    {
+      "line_num": "03호선",
+      "station_nm": "지축",
+      "fr_code": "319"
+    }
+  ],
+  "지축": [
+    {
+      "line_num": "03호선",
+      "station_nm": "삼송",
+      "fr_code": "318"
+    },
+    {
+      "line_num": "03호선",
+      "station_nm": "구파발",
+      "fr_code": "320"
+    }
+  ],
+  "구파발": [
+    {
+      "line_num": "03호선",
+      "station_nm": "지축",
+      "fr_code": "319"
+    },
+    {
+      "line_num": "03호선",
+      "station_nm": "연신내",
+      "fr_code": "321"
+    }
+  ],
+  "연신내": [
+    {
+      "line_num": "03호선",
+      "station_nm": "구파발",
+      "fr_code": "320"
+    },
+    {
+      "line_num": "03호선",
+      "station_nm": "불광",
+      "fr_code": "322"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "독바위",
+      "fr_code": "613"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "구산",
+      "fr_code": "615"
+    }
+  ],
+  "불광": [
+    {
+      "line_num": "03호선",
+      "station_nm": "연신내",
+      "fr_code": "321"
+    },
+    {
+      "line_num": "03호선",
+      "station_nm": "녹번",
+      "fr_code": "323"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "역촌",
+      "fr_code": "611"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "독바위",
+      "fr_code": "613"
+    }
+  ],
+  "녹번": [
+    {
+      "line_num": "03호선",
+      "station_nm": "불광",
+      "fr_code": "322"
+    },
+    {
+      "line_num": "03호선",
+      "station_nm": "홍제",
+      "fr_code": "324"
+    }
+  ],
+  "홍제": [
+    {
+      "line_num": "03호선",
+      "station_nm": "녹번",
+      "fr_code": "323"
+    },
+    {
+      "line_num": "03호선",
+      "station_nm": "무악재",
+      "fr_code": "325"
+    }
+  ],
+  "무악재": [
+    {
+      "line_num": "03호선",
+      "station_nm": "홍제",
+      "fr_code": "324"
+    },
+    {
+      "line_num": "03호선",
+      "station_nm": "독립문",
+      "fr_code": "326"
+    }
+  ],
+  "독립문": [
+    {
+      "line_num": "03호선",
+      "station_nm": "무악재",
+      "fr_code": "325"
+    },
+    {
+      "line_num": "03호선",
+      "station_nm": "경복궁",
+      "fr_code": "327"
+    }
+  ],
+  "경복궁": [
+    {
+      "line_num": "03호선",
+      "station_nm": "독립문",
+      "fr_code": "326"
+    },
+    {
+      "line_num": "03호선",
+      "station_nm": "안국",
+      "fr_code": "328"
+    }
+  ],
+  "안국": [
+    {
+      "line_num": "03호선",
+      "station_nm": "경복궁",
+      "fr_code": "327"
+    },
+    {
+      "line_num": "03호선",
+      "station_nm": "종로3가",
+      "fr_code": "329"
+    }
+  ],
+  "종로3가": [
+    {
+      "line_num": "03호선",
+      "station_nm": "안국",
+      "fr_code": "328"
+    },
+    {
+      "line_num": "03호선",
+      "station_nm": "을지로3가",
+      "fr_code": "330"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "종로5가",
+      "fr_code": "129"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "종각",
+      "fr_code": "131"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "광화문",
+      "fr_code": "533"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "을지로4가",
+      "fr_code": "535"
+    }
+  ],
+  "을지로3가": [
+    {
+      "line_num": "03호선",
+      "station_nm": "종로3가",
+      "fr_code": "329"
+    },
+    {
+      "line_num": "03호선",
+      "station_nm": "충무로",
+      "fr_code": "331"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "을지로입구",
+      "fr_code": "202"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "을지로4가",
+      "fr_code": "204"
+    }
+  ],
+  "충무로": [
+    {
+      "line_num": "03호선",
+      "station_nm": "을지로3가",
+      "fr_code": "330"
+    },
+    {
+      "line_num": "03호선",
+      "station_nm": "동대입구",
+      "fr_code": "332"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "동대문역사문화공원",
+      "fr_code": "422"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "명동",
+      "fr_code": "424"
+    }
+  ],
+  "동대입구": [
+    {
+      "line_num": "03호선",
+      "station_nm": "충무로",
+      "fr_code": "331"
+    },
+    {
+      "line_num": "03호선",
+      "station_nm": "약수",
+      "fr_code": "333"
+    }
+  ],
+  "약수": [
+    {
+      "line_num": "03호선",
+      "station_nm": "동대입구",
+      "fr_code": "332"
+    },
+    {
+      "line_num": "03호선",
+      "station_nm": "금호",
+      "fr_code": "334"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "버티고개",
+      "fr_code": "632"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "청구",
+      "fr_code": "634"
+    }
+  ],
+  "금호": [
+    {
+      "line_num": "03호선",
+      "station_nm": "약수",
+      "fr_code": "333"
+    },
+    {
+      "line_num": "03호선",
+      "station_nm": "옥수",
+      "fr_code": "335"
+    }
+  ],
+  "옥수": [
+    {
+      "line_num": "03호선",
+      "station_nm": "금호",
+      "fr_code": "334"
+    },
+    {
+      "line_num": "03호선",
+      "station_nm": "압구정",
+      "fr_code": "336"
+    }
+  ],
+  "압구정": [
+    {
+      "line_num": "03호선",
+      "station_nm": "옥수",
+      "fr_code": "335"
+    },
+    {
+      "line_num": "03호선",
+      "station_nm": "신사",
+      "fr_code": "337"
+    }
+  ],
+  "신사": [
+    {
+      "line_num": "03호선",
+      "station_nm": "압구정",
+      "fr_code": "336"
+    },
+    {
+      "line_num": "03호선",
+      "station_nm": "잠원",
+      "fr_code": "338"
+    }
+  ],
+  "잠원": [
+    {
+      "line_num": "03호선",
+      "station_nm": "신사",
+      "fr_code": "337"
+    },
+    {
+      "line_num": "03호선",
+      "station_nm": "고속터미널",
+      "fr_code": "339"
+    }
+  ],
+  "고속터미널": [
+    {
+      "line_num": "03호선",
+      "station_nm": "잠원",
+      "fr_code": "338"
+    },
+    {
+      "line_num": "03호선",
+      "station_nm": "교대",
+      "fr_code": "340"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "반포",
+      "fr_code": "733"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "내방",
+      "fr_code": "735"
+    }
+  ],
+  "교대": [
+    {
+      "line_num": "03호선",
+      "station_nm": "고속터미널",
+      "fr_code": "339"
+    },
+    {
+      "line_num": "03호선",
+      "station_nm": "남부터미널",
+      "fr_code": "341"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "강남",
+      "fr_code": "222"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "서초",
+      "fr_code": "224"
+    }
+  ],
+  "남부터미널": [
+    {
+      "line_num": "03호선",
+      "station_nm": "교대",
+      "fr_code": "340"
+    },
+    {
+      "line_num": "03호선",
+      "station_nm": "양재",
+      "fr_code": "342"
+    }
+  ],
+  "양재": [
+    {
+      "line_num": "03호선",
+      "station_nm": "남부터미널",
+      "fr_code": "341"
+    },
+    {
+      "line_num": "03호선",
+      "station_nm": "매봉",
+      "fr_code": "343"
+    }
+  ],
+  "매봉": [
+    {
+      "line_num": "03호선",
+      "station_nm": "양재",
+      "fr_code": "342"
+    },
+    {
+      "line_num": "03호선",
+      "station_nm": "도곡",
+      "fr_code": "344"
+    }
+  ],
+  "도곡": [
+    {
+      "line_num": "03호선",
+      "station_nm": "매봉",
+      "fr_code": "343"
+    },
+    {
+      "line_num": "03호선",
+      "station_nm": "대치",
+      "fr_code": "345"
+    }
+  ],
+  "대치": [
+    {
+      "line_num": "03호선",
+      "station_nm": "도곡",
+      "fr_code": "344"
+    },
+    {
+      "line_num": "03호선",
+      "station_nm": "학여울",
+      "fr_code": "346"
+    }
+  ],
+  "학여울": [
+    {
+      "line_num": "03호선",
+      "station_nm": "대치",
+      "fr_code": "345"
+    },
+    {
+      "line_num": "03호선",
+      "station_nm": "대청",
+      "fr_code": "347"
+    }
+  ],
+  "대청": [
+    {
+      "line_num": "03호선",
+      "station_nm": "학여울",
+      "fr_code": "346"
+    },
+    {
+      "line_num": "03호선",
+      "station_nm": "일원",
+      "fr_code": "348"
+    }
+  ],
+  "일원": [
+    {
+      "line_num": "03호선",
+      "station_nm": "대청",
+      "fr_code": "347"
+    },
+    {
+      "line_num": "03호선",
+      "station_nm": "수서",
+      "fr_code": "349"
+    }
+  ],
+  "수서": [
+    {
+      "line_num": "03호선",
+      "station_nm": "일원",
+      "fr_code": "348"
+    },
+    {
+      "line_num": "03호선",
+      "station_nm": "가락시장",
+      "fr_code": "350"
+    }
+  ],
+  "가락시장": [
+    {
+      "line_num": "03호선",
+      "station_nm": "수서",
+      "fr_code": "349"
+    },
+    {
+      "line_num": "03호선",
+      "station_nm": "경찰병원",
+      "fr_code": "351"
+    },
+    {
+      "line_num": "08호선",
+      "station_nm": "송파",
+      "fr_code": "816"
+    },
+    {
+      "line_num": "08호선",
+      "station_nm": "문정",
+      "fr_code": "818"
+    }
+  ],
+  "경찰병원": [
+    {
+      "line_num": "03호선",
+      "station_nm": "가락시장",
+      "fr_code": "350"
+    },
+    {
+      "line_num": "03호선",
+      "station_nm": "오금",
+      "fr_code": "352"
+    }
+  ],
+  "오금": [
+    {
+      "line_num": "03호선",
+      "station_nm": "경찰병원",
+      "fr_code": "351"
+    }
+  ],
+  "진접": [
+    {
+      "line_num": "04호선",
+      "station_nm": "오남",
+      "fr_code": "406"
+    }
+  ],
+  "오남": [
+    {
+      "line_num": "04호선",
+      "station_nm": "진접",
+      "fr_code": "405"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "별내별가람",
+      "fr_code": "408"
+    }
+  ],
+  "별내별가람": [
+    {
+      "line_num": "04호선",
+      "station_nm": "오남",
+      "fr_code": "406"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "당고개",
+      "fr_code": "409"
+    }
+  ],
+  "당고개": [
+    {
+      "line_num": "04호선",
+      "station_nm": "별내별가람",
+      "fr_code": "408"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "상계",
+      "fr_code": "410"
+    }
+  ],
+  "상계": [
+    {
+      "line_num": "04호선",
+      "station_nm": "당고개",
+      "fr_code": "409"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "노원",
+      "fr_code": "411"
+    }
+  ],
+  "노원": [
+    {
+      "line_num": "04호선",
+      "station_nm": "상계",
+      "fr_code": "410"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "창동",
+      "fr_code": "412"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "마들",
+      "fr_code": "712"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "중계",
+      "fr_code": "714"
+    }
+  ],
+  "창동": [
+    {
+      "line_num": "04호선",
+      "station_nm": "노원",
+      "fr_code": "411"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "쌍문",
+      "fr_code": "413"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "방학",
+      "fr_code": "115"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "녹천",
+      "fr_code": "117"
+    }
+  ],
+  "쌍문": [
+    {
+      "line_num": "04호선",
+      "station_nm": "창동",
+      "fr_code": "412"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "수유",
+      "fr_code": "414"
+    }
+  ],
+  "수유": [
+    {
+      "line_num": "04호선",
+      "station_nm": "쌍문",
+      "fr_code": "413"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "미아",
+      "fr_code": "415"
+    }
+  ],
+  "미아": [
+    {
+      "line_num": "04호선",
+      "station_nm": "수유",
+      "fr_code": "414"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "미아사거리",
+      "fr_code": "416"
+    }
+  ],
+  "미아사거리": [
+    {
+      "line_num": "04호선",
+      "station_nm": "미아",
+      "fr_code": "415"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "길음",
+      "fr_code": "417"
+    }
+  ],
+  "길음": [
+    {
+      "line_num": "04호선",
+      "station_nm": "미아사거리",
+      "fr_code": "416"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "성신여대입구",
+      "fr_code": "418"
+    }
+  ],
+  "성신여대입구": [
+    {
+      "line_num": "04호선",
+      "station_nm": "길음",
+      "fr_code": "417"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "한성대입구",
+      "fr_code": "419"
+    }
+  ],
+  "한성대입구": [
+    {
+      "line_num": "04호선",
+      "station_nm": "성신여대입구",
+      "fr_code": "418"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "혜화",
+      "fr_code": "420"
+    }
+  ],
+  "혜화": [
+    {
+      "line_num": "04호선",
+      "station_nm": "한성대입구",
+      "fr_code": "419"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "동대문",
+      "fr_code": "421"
+    }
+  ],
+  "동대문": [
+    {
+      "line_num": "04호선",
+      "station_nm": "혜화",
+      "fr_code": "420"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "동대문역사문화공원",
+      "fr_code": "422"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "동묘앞",
+      "fr_code": "127"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "종로5가",
+      "fr_code": "129"
+    }
+  ],
+  "동대문역사문화공원": [
+    {
+      "line_num": "04호선",
+      "station_nm": "동대문",
+      "fr_code": "421"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "충무로",
+      "fr_code": "423"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "을지로4가",
+      "fr_code": "204"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "신당",
+      "fr_code": "206"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "을지로4가",
+      "fr_code": "535"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "청구",
+      "fr_code": "537"
+    }
+  ],
+  "명동": [
+    {
+      "line_num": "04호선",
+      "station_nm": "충무로",
+      "fr_code": "423"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "회현",
+      "fr_code": "425"
+    }
+  ],
+  "회현": [
+    {
+      "line_num": "04호선",
+      "station_nm": "명동",
+      "fr_code": "424"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "서울역",
+      "fr_code": "426"
+    }
+  ],
+  "서울역": [
+    {
+      "line_num": "04호선",
+      "station_nm": "회현",
+      "fr_code": "425"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "숙대입구",
+      "fr_code": "427"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "시청",
+      "fr_code": "132"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "남영",
+      "fr_code": "134"
+    }
+  ],
+  "숙대입구": [
+    {
+      "line_num": "04호선",
+      "station_nm": "서울역",
+      "fr_code": "426"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "삼각지",
+      "fr_code": "428"
+    }
+  ],
+  "삼각지": [
+    {
+      "line_num": "04호선",
+      "station_nm": "숙대입구",
+      "fr_code": "427"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "신용산",
+      "fr_code": "429"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "효창공원앞",
+      "fr_code": "627"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "녹사평",
+      "fr_code": "629"
+    }
+  ],
+  "신용산": [
+    {
+      "line_num": "04호선",
+      "station_nm": "삼각지",
+      "fr_code": "428"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "이촌",
+      "fr_code": "430"
+    }
+  ],
+  "이촌": [
+    {
+      "line_num": "04호선",
+      "station_nm": "신용산",
+      "fr_code": "429"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "동작",
+      "fr_code": "431"
+    }
+  ],
+  "동작": [
+    {
+      "line_num": "04호선",
+      "station_nm": "이촌",
+      "fr_code": "430"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "총신대입구",
+      "fr_code": "432"
+    }
+  ],
+  "총신대입구": [
+    {
+      "line_num": "04호선",
+      "station_nm": "동작",
+      "fr_code": "431"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "사당",
+      "fr_code": "433"
+    }
+  ],
+  "사당": [
+    {
+      "line_num": "04호선",
+      "station_nm": "총신대입구",
+      "fr_code": "432"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "남태령",
+      "fr_code": "434"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "방배",
+      "fr_code": "225"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "낙성대",
+      "fr_code": "227"
+    }
+  ],
+  "남태령": [
+    {
+      "line_num": "04호선",
+      "station_nm": "사당",
+      "fr_code": "433"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "선바위",
+      "fr_code": "435"
+    }
+  ],
+  "선바위": [
+    {
+      "line_num": "04호선",
+      "station_nm": "남태령",
+      "fr_code": "434"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "경마공원",
+      "fr_code": "436"
+    }
+  ],
+  "경마공원": [
+    {
+      "line_num": "04호선",
+      "station_nm": "선바위",
+      "fr_code": "435"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "대공원",
+      "fr_code": "437"
+    }
+  ],
+  "대공원": [
+    {
+      "line_num": "04호선",
+      "station_nm": "경마공원",
+      "fr_code": "436"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "과천",
+      "fr_code": "438"
+    }
+  ],
+  "과천": [
+    {
+      "line_num": "04호선",
+      "station_nm": "대공원",
+      "fr_code": "437"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "정부과천청사",
+      "fr_code": "439"
+    }
+  ],
+  "정부과천청사": [
+    {
+      "line_num": "04호선",
+      "station_nm": "과천",
+      "fr_code": "438"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "인덕원",
+      "fr_code": "440"
+    }
+  ],
+  "인덕원": [
+    {
+      "line_num": "04호선",
+      "station_nm": "정부과천청사",
+      "fr_code": "439"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "평촌",
+      "fr_code": "441"
+    }
+  ],
+  "평촌": [
+    {
+      "line_num": "04호선",
+      "station_nm": "인덕원",
+      "fr_code": "440"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "범계",
+      "fr_code": "442"
+    }
+  ],
+  "범계": [
+    {
+      "line_num": "04호선",
+      "station_nm": "평촌",
+      "fr_code": "441"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "금정",
+      "fr_code": "443"
+    }
+  ],
+  "금정": [
+    {
+      "line_num": "04호선",
+      "station_nm": "범계",
+      "fr_code": "442"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "산본",
+      "fr_code": "444"
+    }
+  ],
+  "산본": [
+    {
+      "line_num": "04호선",
+      "station_nm": "금정",
+      "fr_code": "443"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "수리산",
+      "fr_code": "445"
+    }
+  ],
+  "수리산": [
+    {
+      "line_num": "04호선",
+      "station_nm": "산본",
+      "fr_code": "444"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "대야미",
+      "fr_code": "446"
+    }
+  ],
+  "대야미": [
+    {
+      "line_num": "04호선",
+      "station_nm": "수리산",
+      "fr_code": "445"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "반월",
+      "fr_code": "447"
+    }
+  ],
+  "반월": [
+    {
+      "line_num": "04호선",
+      "station_nm": "대야미",
+      "fr_code": "446"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "상록수",
+      "fr_code": "448"
+    }
+  ],
+  "상록수": [
+    {
+      "line_num": "04호선",
+      "station_nm": "반월",
+      "fr_code": "447"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "한대앞",
+      "fr_code": "449"
+    }
+  ],
+  "한대앞": [
+    {
+      "line_num": "04호선",
+      "station_nm": "상록수",
+      "fr_code": "448"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "중앙",
+      "fr_code": "450"
+    }
+  ],
+  "중앙": [
+    {
+      "line_num": "04호선",
+      "station_nm": "한대앞",
+      "fr_code": "449"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "고잔",
+      "fr_code": "451"
+    }
+  ],
+  "고잔": [
+    {
+      "line_num": "04호선",
+      "station_nm": "중앙",
+      "fr_code": "450"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "초지",
+      "fr_code": "452"
+    }
+  ],
+  "초지": [
+    {
+      "line_num": "04호선",
+      "station_nm": "고잔",
+      "fr_code": "451"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "안산",
+      "fr_code": "453"
+    }
+  ],
+  "안산": [
+    {
+      "line_num": "04호선",
+      "station_nm": "초지",
+      "fr_code": "452"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "신길온천",
+      "fr_code": "454"
+    }
+  ],
+  "신길온천": [
+    {
+      "line_num": "04호선",
+      "station_nm": "안산",
+      "fr_code": "453"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "정왕",
+      "fr_code": "455"
+    }
+  ],
+  "정왕": [
+    {
+      "line_num": "04호선",
+      "station_nm": "신길온천",
+      "fr_code": "454"
+    },
+    {
+      "line_num": "04호선",
+      "station_nm": "오이도",
+      "fr_code": "456"
+    }
+  ],
+  "오이도": [
+    {
+      "line_num": "04호선",
+      "station_nm": "정왕",
+      "fr_code": "455"
+    }
+  ],
+  "소요산": [
+    {
+      "line_num": "01호선",
+      "station_nm": "동두천",
+      "fr_code": "101"
+    }
+  ],
+  "동두천": [
+    {
+      "line_num": "01호선",
+      "station_nm": "소요산",
+      "fr_code": "100"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "보산",
+      "fr_code": "102"
+    }
+  ],
+  "보산": [
+    {
+      "line_num": "01호선",
+      "station_nm": "동두천",
+      "fr_code": "101"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "동두천중앙",
+      "fr_code": "103"
+    }
+  ],
+  "동두천중앙": [
+    {
+      "line_num": "01호선",
+      "station_nm": "보산",
+      "fr_code": "102"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "지행",
+      "fr_code": "104"
+    }
+  ],
+  "지행": [
+    {
+      "line_num": "01호선",
+      "station_nm": "동두천중앙",
+      "fr_code": "103"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "덕정",
+      "fr_code": "105"
+    }
+  ],
+  "덕정": [
+    {
+      "line_num": "01호선",
+      "station_nm": "지행",
+      "fr_code": "104"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "덕계",
+      "fr_code": "106"
+    }
+  ],
+  "덕계": [
+    {
+      "line_num": "01호선",
+      "station_nm": "덕정",
+      "fr_code": "105"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "양주",
+      "fr_code": "107"
+    }
+  ],
+  "양주": [
+    {
+      "line_num": "01호선",
+      "station_nm": "덕계",
+      "fr_code": "106"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "녹양",
+      "fr_code": "108"
+    }
+  ],
+  "녹양": [
+    {
+      "line_num": "01호선",
+      "station_nm": "양주",
+      "fr_code": "107"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "가능",
+      "fr_code": "109"
+    }
+  ],
+  "가능": [
+    {
+      "line_num": "01호선",
+      "station_nm": "녹양",
+      "fr_code": "108"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "의정부",
+      "fr_code": "110"
+    }
+  ],
+  "의정부": [
+    {
+      "line_num": "01호선",
+      "station_nm": "가능",
+      "fr_code": "109"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "회룡",
+      "fr_code": "111"
+    }
+  ],
+  "회룡": [
+    {
+      "line_num": "01호선",
+      "station_nm": "의정부",
+      "fr_code": "110"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "망월사",
+      "fr_code": "112"
+    }
+  ],
+  "망월사": [
+    {
+      "line_num": "01호선",
+      "station_nm": "회룡",
+      "fr_code": "111"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "도봉산",
+      "fr_code": "113"
+    }
+  ],
+  "도봉산": [
+    {
+      "line_num": "01호선",
+      "station_nm": "망월사",
+      "fr_code": "112"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "도봉",
+      "fr_code": "114"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "장암",
+      "fr_code": "709"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "수락산",
+      "fr_code": "711"
+    }
+  ],
+  "도봉": [
+    {
+      "line_num": "01호선",
+      "station_nm": "도봉산",
+      "fr_code": "113"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "방학",
+      "fr_code": "115"
+    }
+  ],
+  "방학": [
+    {
+      "line_num": "01호선",
+      "station_nm": "도봉",
+      "fr_code": "114"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "창동",
+      "fr_code": "116"
+    }
+  ],
+  "녹천": [
+    {
+      "line_num": "01호선",
+      "station_nm": "창동",
+      "fr_code": "116"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "월계",
+      "fr_code": "118"
+    }
+  ],
+  "월계": [
+    {
+      "line_num": "01호선",
+      "station_nm": "녹천",
+      "fr_code": "117"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "광운대",
+      "fr_code": "119"
+    }
+  ],
+  "광운대": [
+    {
+      "line_num": "01호선",
+      "station_nm": "월계",
+      "fr_code": "118"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "석계",
+      "fr_code": "120"
+    }
+  ],
+  "석계": [
+    {
+      "line_num": "01호선",
+      "station_nm": "광운대",
+      "fr_code": "119"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "신이문",
+      "fr_code": "121"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "돌곶이",
+      "fr_code": "643"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "태릉입구",
+      "fr_code": "645"
+    }
+  ],
+  "신이문": [
+    {
+      "line_num": "01호선",
+      "station_nm": "석계",
+      "fr_code": "120"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "외대앞",
+      "fr_code": "122"
+    }
+  ],
+  "외대앞": [
+    {
+      "line_num": "01호선",
+      "station_nm": "신이문",
+      "fr_code": "121"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "회기",
+      "fr_code": "123"
+    }
+  ],
+  "회기": [
+    {
+      "line_num": "01호선",
+      "station_nm": "외대앞",
+      "fr_code": "122"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "청량리",
+      "fr_code": "124"
+    }
+  ],
+  "청량리": [
+    {
+      "line_num": "01호선",
+      "station_nm": "회기",
+      "fr_code": "123"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "제기동",
+      "fr_code": "125"
+    }
+  ],
+  "제기동": [
+    {
+      "line_num": "01호선",
+      "station_nm": "청량리",
+      "fr_code": "124"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "신설동",
+      "fr_code": "126"
+    }
+  ],
+  "신설동": [
+    {
+      "line_num": "01호선",
+      "station_nm": "제기동",
+      "fr_code": "125"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "동묘앞",
+      "fr_code": "127"
+    }
+  ],
+  "동묘앞": [
+    {
+      "line_num": "01호선",
+      "station_nm": "신설동",
+      "fr_code": "126"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "동대문",
+      "fr_code": "128"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "신당",
+      "fr_code": "635"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "창신",
+      "fr_code": "637"
+    }
+  ],
+  "종로5가": [
+    {
+      "line_num": "01호선",
+      "station_nm": "동대문",
+      "fr_code": "128"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "종로3가",
+      "fr_code": "130"
+    }
+  ],
+  "종각": [
+    {
+      "line_num": "01호선",
+      "station_nm": "종로3가",
+      "fr_code": "130"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "시청",
+      "fr_code": "132"
+    }
+  ],
+  "시청": [
+    {
+      "line_num": "01호선",
+      "station_nm": "종각",
+      "fr_code": "131"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "서울역",
+      "fr_code": "133"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "을지로입구",
+      "fr_code": "202"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "충정로",
+      "fr_code": "243"
+    }
+  ],
+  "남영": [
+    {
+      "line_num": "01호선",
+      "station_nm": "서울역",
+      "fr_code": "133"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "용산",
+      "fr_code": "135"
+    }
+  ],
+  "용산": [
+    {
+      "line_num": "01호선",
+      "station_nm": "남영",
+      "fr_code": "134"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "노량진",
+      "fr_code": "136"
+    }
+  ],
+  "노량진": [
+    {
+      "line_num": "01호선",
+      "station_nm": "용산",
+      "fr_code": "135"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "대방",
+      "fr_code": "137"
+    }
+  ],
+  "대방": [
+    {
+      "line_num": "01호선",
+      "station_nm": "노량진",
+      "fr_code": "136"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "신길",
+      "fr_code": "138"
+    }
+  ],
+  "신길": [
+    {
+      "line_num": "01호선",
+      "station_nm": "대방",
+      "fr_code": "137"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "영등포",
+      "fr_code": "139"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "영등포시장",
+      "fr_code": "524"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "여의도",
+      "fr_code": "526"
+    }
+  ],
+  "영등포": [
+    {
+      "line_num": "01호선",
+      "station_nm": "신길",
+      "fr_code": "138"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "신도림",
+      "fr_code": "140"
+    }
+  ],
+  "신도림": [
+    {
+      "line_num": "01호선",
+      "station_nm": "영등포",
+      "fr_code": "139"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "구로",
+      "fr_code": "141"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "대림",
+      "fr_code": "233"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "문래",
+      "fr_code": "235"
+    }
+  ],
+  "구로": [
+    {
+      "line_num": "01호선",
+      "station_nm": "신도림",
+      "fr_code": "140"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "구일",
+      "fr_code": "142"
+    }
+  ],
+  "구일": [
+    {
+      "line_num": "01호선",
+      "station_nm": "구로",
+      "fr_code": "141"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "개봉",
+      "fr_code": "143"
+    }
+  ],
+  "개봉": [
+    {
+      "line_num": "01호선",
+      "station_nm": "구일",
+      "fr_code": "142"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "오류동",
+      "fr_code": "144"
+    }
+  ],
+  "오류동": [
+    {
+      "line_num": "01호선",
+      "station_nm": "개봉",
+      "fr_code": "143"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "온수",
+      "fr_code": "145"
+    }
+  ],
+  "온수": [
+    {
+      "line_num": "01호선",
+      "station_nm": "오류동",
+      "fr_code": "144"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "역곡",
+      "fr_code": "146"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "천왕",
+      "fr_code": "749"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "까치울",
+      "fr_code": "751"
+    }
+  ],
+  "역곡": [
+    {
+      "line_num": "01호선",
+      "station_nm": "온수",
+      "fr_code": "145"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "소사",
+      "fr_code": "147"
+    }
+  ],
+  "소사": [
+    {
+      "line_num": "01호선",
+      "station_nm": "역곡",
+      "fr_code": "146"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "부천",
+      "fr_code": "148"
+    }
+  ],
+  "부천": [
+    {
+      "line_num": "01호선",
+      "station_nm": "소사",
+      "fr_code": "147"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "중동",
+      "fr_code": "149"
+    }
+  ],
+  "중동": [
+    {
+      "line_num": "01호선",
+      "station_nm": "부천",
+      "fr_code": "148"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "송내",
+      "fr_code": "150"
+    }
+  ],
+  "송내": [
+    {
+      "line_num": "01호선",
+      "station_nm": "중동",
+      "fr_code": "149"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "부개",
+      "fr_code": "151"
+    }
+  ],
+  "부개": [
+    {
+      "line_num": "01호선",
+      "station_nm": "송내",
+      "fr_code": "150"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "부평",
+      "fr_code": "152"
+    }
+  ],
+  "부평": [
+    {
+      "line_num": "01호선",
+      "station_nm": "부개",
+      "fr_code": "151"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "백운",
+      "fr_code": "153"
+    }
+  ],
+  "백운": [
+    {
+      "line_num": "01호선",
+      "station_nm": "부평",
+      "fr_code": "152"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "동암",
+      "fr_code": "154"
+    }
+  ],
+  "동암": [
+    {
+      "line_num": "01호선",
+      "station_nm": "백운",
+      "fr_code": "153"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "간석",
+      "fr_code": "155"
+    }
+  ],
+  "간석": [
+    {
+      "line_num": "01호선",
+      "station_nm": "동암",
+      "fr_code": "154"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "주안",
+      "fr_code": "156"
+    }
+  ],
+  "주안": [
+    {
+      "line_num": "01호선",
+      "station_nm": "간석",
+      "fr_code": "155"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "도화",
+      "fr_code": "157"
+    }
+  ],
+  "도화": [
+    {
+      "line_num": "01호선",
+      "station_nm": "주안",
+      "fr_code": "156"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "제물포",
+      "fr_code": "158"
+    }
+  ],
+  "제물포": [
+    {
+      "line_num": "01호선",
+      "station_nm": "도화",
+      "fr_code": "157"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "도원",
+      "fr_code": "159"
+    }
+  ],
+  "도원": [
+    {
+      "line_num": "01호선",
+      "station_nm": "제물포",
+      "fr_code": "158"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "동인천",
+      "fr_code": "160"
+    }
+  ],
+  "동인천": [
+    {
+      "line_num": "01호선",
+      "station_nm": "도원",
+      "fr_code": "159"
+    },
+    {
+      "line_num": "01호선",
+      "station_nm": "인천",
+      "fr_code": "161"
+    }
+  ],
+  "인천": [
+    {
+      "line_num": "01호선",
+      "station_nm": "동인천",
+      "fr_code": "160"
+    }
+  ],
+  "을지로입구": [
+    {
+      "line_num": "02호선",
+      "station_nm": "시청",
+      "fr_code": "201"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "을지로3가",
+      "fr_code": "203"
+    }
+  ],
+  "을지로4가": [
+    {
+      "line_num": "02호선",
+      "station_nm": "을지로3가",
+      "fr_code": "203"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "동대문역사문화공원",
+      "fr_code": "205"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "종로3가",
+      "fr_code": "534"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "동대문역사문화공원",
+      "fr_code": "536"
+    }
+  ],
+  "신당": [
+    {
+      "line_num": "02호선",
+      "station_nm": "동대문역사문화공원",
+      "fr_code": "205"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "상왕십리",
+      "fr_code": "207"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "청구",
+      "fr_code": "634"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "동묘앞",
+      "fr_code": "636"
+    }
+  ],
+  "상왕십리": [
+    {
+      "line_num": "02호선",
+      "station_nm": "신당",
+      "fr_code": "206"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "왕십리",
+      "fr_code": "208"
+    }
+  ],
+  "왕십리": [
+    {
+      "line_num": "02호선",
+      "station_nm": "상왕십리",
+      "fr_code": "207"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "한양대",
+      "fr_code": "209"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "행당",
+      "fr_code": "539"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "마장",
+      "fr_code": "541"
+    }
+  ],
+  "한양대": [
+    {
+      "line_num": "02호선",
+      "station_nm": "왕십리",
+      "fr_code": "208"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "뚝섬",
+      "fr_code": "210"
+    }
+  ],
+  "뚝섬": [
+    {
+      "line_num": "02호선",
+      "station_nm": "한양대",
+      "fr_code": "209"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "성수",
+      "fr_code": "211"
+    }
+  ],
+  "성수": [
+    {
+      "line_num": "02호선",
+      "station_nm": "뚝섬",
+      "fr_code": "210"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "건대입구",
+      "fr_code": "212"
+    }
+  ],
+  "건대입구": [
+    {
+      "line_num": "02호선",
+      "station_nm": "성수",
+      "fr_code": "211"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "구의",
+      "fr_code": "213"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "어린이대공원",
+      "fr_code": "726"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "뚝섬유원지",
+      "fr_code": "728"
+    }
+  ],
+  "구의": [
+    {
+      "line_num": "02호선",
+      "station_nm": "건대입구",
+      "fr_code": "212"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "강변",
+      "fr_code": "214"
+    }
+  ],
+  "강변": [
+    {
+      "line_num": "02호선",
+      "station_nm": "구의",
+      "fr_code": "213"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "잠실나루",
+      "fr_code": "215"
+    }
+  ],
+  "잠실나루": [
+    {
+      "line_num": "02호선",
+      "station_nm": "강변",
+      "fr_code": "214"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "잠실",
+      "fr_code": "216"
+    }
+  ],
+  "잠실": [
+    {
+      "line_num": "02호선",
+      "station_nm": "잠실나루",
+      "fr_code": "215"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "잠실새내",
+      "fr_code": "217"
+    },
+    {
+      "line_num": "08호선",
+      "station_nm": "몽촌토성",
+      "fr_code": "813"
+    },
+    {
+      "line_num": "08호선",
+      "station_nm": "석촌",
+      "fr_code": "815"
+    }
+  ],
+  "잠실새내": [
+    {
+      "line_num": "02호선",
+      "station_nm": "잠실",
+      "fr_code": "216"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "종합운동장",
+      "fr_code": "218"
+    }
+  ],
+  "종합운동장": [
+    {
+      "line_num": "02호선",
+      "station_nm": "잠실새내",
+      "fr_code": "217"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "삼성",
+      "fr_code": "219"
+    }
+  ],
+  "삼성": [
+    {
+      "line_num": "02호선",
+      "station_nm": "종합운동장",
+      "fr_code": "218"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "선릉",
+      "fr_code": "220"
+    }
+  ],
+  "선릉": [
+    {
+      "line_num": "02호선",
+      "station_nm": "삼성",
+      "fr_code": "219"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "역삼",
+      "fr_code": "221"
+    }
+  ],
+  "역삼": [
+    {
+      "line_num": "02호선",
+      "station_nm": "선릉",
+      "fr_code": "220"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "강남",
+      "fr_code": "222"
+    }
+  ],
+  "강남": [
+    {
+      "line_num": "02호선",
+      "station_nm": "역삼",
+      "fr_code": "221"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "교대",
+      "fr_code": "223"
+    }
+  ],
+  "서초": [
+    {
+      "line_num": "02호선",
+      "station_nm": "교대",
+      "fr_code": "223"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "방배",
+      "fr_code": "225"
+    }
+  ],
+  "방배": [
+    {
+      "line_num": "02호선",
+      "station_nm": "서초",
+      "fr_code": "224"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "사당",
+      "fr_code": "226"
+    }
+  ],
+  "낙성대": [
+    {
+      "line_num": "02호선",
+      "station_nm": "사당",
+      "fr_code": "226"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "서울대입구",
+      "fr_code": "228"
+    }
+  ],
+  "서울대입구": [
+    {
+      "line_num": "02호선",
+      "station_nm": "낙성대",
+      "fr_code": "227"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "봉천",
+      "fr_code": "229"
+    }
+  ],
+  "봉천": [
+    {
+      "line_num": "02호선",
+      "station_nm": "서울대입구",
+      "fr_code": "228"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "신림",
+      "fr_code": "230"
+    }
+  ],
+  "신림": [
+    {
+      "line_num": "02호선",
+      "station_nm": "봉천",
+      "fr_code": "229"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "신대방",
+      "fr_code": "231"
+    }
+  ],
+  "신대방": [
+    {
+      "line_num": "02호선",
+      "station_nm": "신림",
+      "fr_code": "230"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "구로디지털단지",
+      "fr_code": "232"
+    }
+  ],
+  "구로디지털단지": [
+    {
+      "line_num": "02호선",
+      "station_nm": "신대방",
+      "fr_code": "231"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "대림",
+      "fr_code": "233"
+    }
+  ],
+  "대림": [
+    {
+      "line_num": "02호선",
+      "station_nm": "구로디지털단지",
+      "fr_code": "232"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "신도림",
+      "fr_code": "234"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "신풍",
+      "fr_code": "743"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "남구로",
+      "fr_code": "745"
+    }
+  ],
+  "문래": [
+    {
+      "line_num": "02호선",
+      "station_nm": "신도림",
+      "fr_code": "234"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "영등포구청",
+      "fr_code": "236"
+    }
+  ],
+  "영등포구청": [
+    {
+      "line_num": "02호선",
+      "station_nm": "문래",
+      "fr_code": "235"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "당산",
+      "fr_code": "237"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "양평",
+      "fr_code": "522"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "영등포시장",
+      "fr_code": "524"
+    }
+  ],
+  "당산": [
+    {
+      "line_num": "02호선",
+      "station_nm": "영등포구청",
+      "fr_code": "236"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "합정",
+      "fr_code": "238"
+    }
+  ],
+  "합정": [
+    {
+      "line_num": "02호선",
+      "station_nm": "당산",
+      "fr_code": "237"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "홍대입구",
+      "fr_code": "239"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "망원",
+      "fr_code": "621"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "상수",
+      "fr_code": "623"
+    }
+  ],
+  "홍대입구": [
+    {
+      "line_num": "02호선",
+      "station_nm": "합정",
+      "fr_code": "238"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "신촌",
+      "fr_code": "240"
+    }
+  ],
+  "신촌": [
+    {
+      "line_num": "02호선",
+      "station_nm": "홍대입구",
+      "fr_code": "239"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "이대",
+      "fr_code": "241"
+    }
+  ],
+  "이대": [
+    {
+      "line_num": "02호선",
+      "station_nm": "신촌",
+      "fr_code": "240"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "아현",
+      "fr_code": "242"
+    }
+  ],
+  "아현": [
+    {
+      "line_num": "02호선",
+      "station_nm": "이대",
+      "fr_code": "241"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "충정로",
+      "fr_code": "243"
+    }
+  ],
+  "충정로": [
+    {
+      "line_num": "02호선",
+      "station_nm": "아현",
+      "fr_code": "242"
+    },
+    {
+      "line_num": "02호선",
+      "station_nm": "시청",
+      "fr_code": "201"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "애오개",
+      "fr_code": "530"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "서대문",
+      "fr_code": "532"
+    }
+  ],
+  "방화": [
+    {
+      "line_num": "05호선",
+      "station_nm": "개화산",
+      "fr_code": "511"
+    }
+  ],
+  "개화산": [
+    {
+      "line_num": "05호선",
+      "station_nm": "방화",
+      "fr_code": "510"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "김포공항",
+      "fr_code": "512"
+    }
+  ],
+  "김포공항": [
+    {
+      "line_num": "05호선",
+      "station_nm": "개화산",
+      "fr_code": "511"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "송정",
+      "fr_code": "513"
+    }
+  ],
+  "송정": [
+    {
+      "line_num": "05호선",
+      "station_nm": "김포공항",
+      "fr_code": "512"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "마곡",
+      "fr_code": "514"
+    }
+  ],
+  "마곡": [
+    {
+      "line_num": "05호선",
+      "station_nm": "송정",
+      "fr_code": "513"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "발산",
+      "fr_code": "515"
+    }
+  ],
+  "발산": [
+    {
+      "line_num": "05호선",
+      "station_nm": "마곡",
+      "fr_code": "514"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "우장산",
+      "fr_code": "516"
+    }
+  ],
+  "우장산": [
+    {
+      "line_num": "05호선",
+      "station_nm": "발산",
+      "fr_code": "515"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "화곡",
+      "fr_code": "517"
+    }
+  ],
+  "화곡": [
+    {
+      "line_num": "05호선",
+      "station_nm": "우장산",
+      "fr_code": "516"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "까치산",
+      "fr_code": "518"
+    }
+  ],
+  "까치산": [
+    {
+      "line_num": "05호선",
+      "station_nm": "화곡",
+      "fr_code": "517"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "신정",
+      "fr_code": "519"
+    }
+  ],
+  "신정": [
+    {
+      "line_num": "05호선",
+      "station_nm": "까치산",
+      "fr_code": "518"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "목동",
+      "fr_code": "520"
+    }
+  ],
+  "목동": [
+    {
+      "line_num": "05호선",
+      "station_nm": "신정",
+      "fr_code": "519"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "오목교",
+      "fr_code": "521"
+    }
+  ],
+  "오목교": [
+    {
+      "line_num": "05호선",
+      "station_nm": "목동",
+      "fr_code": "520"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "양평",
+      "fr_code": "522"
+    }
+  ],
+  "양평": [
+    {
+      "line_num": "05호선",
+      "station_nm": "오목교",
+      "fr_code": "521"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "영등포구청",
+      "fr_code": "523"
+    }
+  ],
+  "영등포시장": [
+    {
+      "line_num": "05호선",
+      "station_nm": "영등포구청",
+      "fr_code": "523"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "신길",
+      "fr_code": "525"
+    }
+  ],
+  "여의도": [
+    {
+      "line_num": "05호선",
+      "station_nm": "신길",
+      "fr_code": "525"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "여의나루",
+      "fr_code": "527"
+    }
+  ],
+  "여의나루": [
+    {
+      "line_num": "05호선",
+      "station_nm": "여의도",
+      "fr_code": "526"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "마포",
+      "fr_code": "528"
+    }
+  ],
+  "마포": [
+    {
+      "line_num": "05호선",
+      "station_nm": "여의나루",
+      "fr_code": "527"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "공덕",
+      "fr_code": "529"
+    }
+  ],
+  "공덕": [
+    {
+      "line_num": "05호선",
+      "station_nm": "마포",
+      "fr_code": "528"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "애오개",
+      "fr_code": "530"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "대흥",
+      "fr_code": "625"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "효창공원앞",
+      "fr_code": "627"
+    }
+  ],
+  "애오개": [
+    {
+      "line_num": "05호선",
+      "station_nm": "공덕",
+      "fr_code": "529"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "충정로",
+      "fr_code": "531"
+    }
+  ],
+  "서대문": [
+    {
+      "line_num": "05호선",
+      "station_nm": "충정로",
+      "fr_code": "531"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "광화문",
+      "fr_code": "533"
+    }
+  ],
+  "광화문": [
+    {
+      "line_num": "05호선",
+      "station_nm": "서대문",
+      "fr_code": "532"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "종로3가",
+      "fr_code": "534"
+    }
+  ],
+  "청구": [
+    {
+      "line_num": "05호선",
+      "station_nm": "동대문역사문화공원",
+      "fr_code": "536"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "신금호",
+      "fr_code": "538"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "약수",
+      "fr_code": "633"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "신당",
+      "fr_code": "635"
+    }
+  ],
+  "신금호": [
+    {
+      "line_num": "05호선",
+      "station_nm": "청구",
+      "fr_code": "537"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "행당",
+      "fr_code": "539"
+    }
+  ],
+  "행당": [
+    {
+      "line_num": "05호선",
+      "station_nm": "신금호",
+      "fr_code": "538"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "왕십리",
+      "fr_code": "540"
+    }
+  ],
+  "마장": [
+    {
+      "line_num": "05호선",
+      "station_nm": "왕십리",
+      "fr_code": "540"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "답십리",
+      "fr_code": "542"
+    }
+  ],
+  "답십리": [
+    {
+      "line_num": "05호선",
+      "station_nm": "마장",
+      "fr_code": "541"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "장한평",
+      "fr_code": "543"
+    }
+  ],
+  "장한평": [
+    {
+      "line_num": "05호선",
+      "station_nm": "답십리",
+      "fr_code": "542"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "군자",
+      "fr_code": "544"
+    }
+  ],
+  "군자": [
+    {
+      "line_num": "05호선",
+      "station_nm": "장한평",
+      "fr_code": "543"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "아차산",
+      "fr_code": "545"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "중곡",
+      "fr_code": "724"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "어린이대공원",
+      "fr_code": "726"
+    }
+  ],
+  "아차산": [
+    {
+      "line_num": "05호선",
+      "station_nm": "군자",
+      "fr_code": "544"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "광나루",
+      "fr_code": "546"
+    }
+  ],
+  "광나루": [
+    {
+      "line_num": "05호선",
+      "station_nm": "아차산",
+      "fr_code": "545"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "천호",
+      "fr_code": "547"
+    }
+  ],
+  "천호": [
+    {
+      "line_num": "05호선",
+      "station_nm": "광나루",
+      "fr_code": "546"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "강동",
+      "fr_code": "548"
+    },
+    {
+      "line_num": "08호선",
+      "station_nm": "암사",
+      "fr_code": "810"
+    },
+    {
+      "line_num": "08호선",
+      "station_nm": "강동구청",
+      "fr_code": "812"
+    }
+  ],
+  "강동": [
+    {
+      "line_num": "05호선",
+      "station_nm": "천호",
+      "fr_code": "547"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "길동",
+      "fr_code": "549"
+    }
+  ],
+  "길동": [
+    {
+      "line_num": "05호선",
+      "station_nm": "강동",
+      "fr_code": "548"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "굽은다리",
+      "fr_code": "550"
+    }
+  ],
+  "굽은다리": [
+    {
+      "line_num": "05호선",
+      "station_nm": "길동",
+      "fr_code": "549"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "명일",
+      "fr_code": "551"
+    }
+  ],
+  "명일": [
+    {
+      "line_num": "05호선",
+      "station_nm": "굽은다리",
+      "fr_code": "550"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "고덕",
+      "fr_code": "552"
+    }
+  ],
+  "고덕": [
+    {
+      "line_num": "05호선",
+      "station_nm": "명일",
+      "fr_code": "551"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "상일동",
+      "fr_code": "553"
+    }
+  ],
+  "상일동": [
+    {
+      "line_num": "05호선",
+      "station_nm": "고덕",
+      "fr_code": "552"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "강일",
+      "fr_code": "554"
+    }
+  ],
+  "강일": [
+    {
+      "line_num": "05호선",
+      "station_nm": "상일동",
+      "fr_code": "553"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "미사",
+      "fr_code": "555"
+    }
+  ],
+  "미사": [
+    {
+      "line_num": "05호선",
+      "station_nm": "강일",
+      "fr_code": "554"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "하남풍산",
+      "fr_code": "556"
+    }
+  ],
+  "하남풍산": [
+    {
+      "line_num": "05호선",
+      "station_nm": "미사",
+      "fr_code": "555"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "하남시청",
+      "fr_code": "557"
+    }
+  ],
+  "하남시청": [
+    {
+      "line_num": "05호선",
+      "station_nm": "하남풍산",
+      "fr_code": "556"
+    },
+    {
+      "line_num": "05호선",
+      "station_nm": "하남검단산",
+      "fr_code": "558"
+    }
+  ],
+  "하남검단산": [
+    {
+      "line_num": "05호선",
+      "station_nm": "하남시청",
+      "fr_code": "557"
+    }
+  ],
+  "응암": [
+    {
+      "line_num": "06호선",
+      "station_nm": "역촌",
+      "fr_code": "611"
+    }
+  ],
+  "역촌": [
+    {
+      "line_num": "06호선",
+      "station_nm": "응암",
+      "fr_code": "610"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "불광",
+      "fr_code": "612"
+    }
+  ],
+  "독바위": [
+    {
+      "line_num": "06호선",
+      "station_nm": "불광",
+      "fr_code": "612"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "연신내",
+      "fr_code": "614"
+    }
+  ],
+  "구산": [
+    {
+      "line_num": "06호선",
+      "station_nm": "연신내",
+      "fr_code": "614"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "새절",
+      "fr_code": "616"
+    }
+  ],
+  "새절": [
+    {
+      "line_num": "06호선",
+      "station_nm": "구산",
+      "fr_code": "615"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "증산",
+      "fr_code": "617"
+    }
+  ],
+  "증산": [
+    {
+      "line_num": "06호선",
+      "station_nm": "새절",
+      "fr_code": "616"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "디지털미디어시티",
+      "fr_code": "618"
+    }
+  ],
+  "디지털미디어시티": [
+    {
+      "line_num": "06호선",
+      "station_nm": "증산",
+      "fr_code": "617"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "월드컵경기장",
+      "fr_code": "619"
+    }
+  ],
+  "월드컵경기장": [
+    {
+      "line_num": "06호선",
+      "station_nm": "디지털미디어시티",
+      "fr_code": "618"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "마포구청",
+      "fr_code": "620"
+    }
+  ],
+  "마포구청": [
+    {
+      "line_num": "06호선",
+      "station_nm": "월드컵경기장",
+      "fr_code": "619"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "망원",
+      "fr_code": "621"
+    }
+  ],
+  "망원": [
+    {
+      "line_num": "06호선",
+      "station_nm": "마포구청",
+      "fr_code": "620"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "합정",
+      "fr_code": "622"
+    }
+  ],
+  "상수": [
+    {
+      "line_num": "06호선",
+      "station_nm": "합정",
+      "fr_code": "622"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "광흥창",
+      "fr_code": "624"
+    }
+  ],
+  "광흥창": [
+    {
+      "line_num": "06호선",
+      "station_nm": "상수",
+      "fr_code": "623"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "대흥",
+      "fr_code": "625"
+    }
+  ],
+  "대흥": [
+    {
+      "line_num": "06호선",
+      "station_nm": "광흥창",
+      "fr_code": "624"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "공덕",
+      "fr_code": "626"
+    }
+  ],
+  "효창공원앞": [
+    {
+      "line_num": "06호선",
+      "station_nm": "공덕",
+      "fr_code": "626"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "삼각지",
+      "fr_code": "628"
+    }
+  ],
+  "녹사평": [
+    {
+      "line_num": "06호선",
+      "station_nm": "삼각지",
+      "fr_code": "628"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "이태원",
+      "fr_code": "630"
+    }
+  ],
+  "이태원": [
+    {
+      "line_num": "06호선",
+      "station_nm": "녹사평",
+      "fr_code": "629"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "한강진",
+      "fr_code": "631"
+    }
+  ],
+  "한강진": [
+    {
+      "line_num": "06호선",
+      "station_nm": "이태원",
+      "fr_code": "630"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "버티고개",
+      "fr_code": "632"
+    }
+  ],
+  "버티고개": [
+    {
+      "line_num": "06호선",
+      "station_nm": "한강진",
+      "fr_code": "631"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "약수",
+      "fr_code": "633"
+    }
+  ],
+  "창신": [
+    {
+      "line_num": "06호선",
+      "station_nm": "동묘앞",
+      "fr_code": "636"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "보문",
+      "fr_code": "638"
+    }
+  ],
+  "보문": [
+    {
+      "line_num": "06호선",
+      "station_nm": "창신",
+      "fr_code": "637"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "안암",
+      "fr_code": "639"
+    }
+  ],
+  "안암": [
+    {
+      "line_num": "06호선",
+      "station_nm": "보문",
+      "fr_code": "638"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "고려대",
+      "fr_code": "640"
+    }
+  ],
+  "고려대": [
+    {
+      "line_num": "06호선",
+      "station_nm": "안암",
+      "fr_code": "639"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "월곡",
+      "fr_code": "641"
+    }
+  ],
+  "월곡": [
+    {
+      "line_num": "06호선",
+      "station_nm": "고려대",
+      "fr_code": "640"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "상월곡",
+      "fr_code": "642"
+    }
+  ],
+  "상월곡": [
+    {
+      "line_num": "06호선",
+      "station_nm": "월곡",
+      "fr_code": "641"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "돌곶이",
+      "fr_code": "643"
+    }
+  ],
+  "돌곶이": [
+    {
+      "line_num": "06호선",
+      "station_nm": "상월곡",
+      "fr_code": "642"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "석계",
+      "fr_code": "644"
+    }
+  ],
+  "태릉입구": [
+    {
+      "line_num": "06호선",
+      "station_nm": "석계",
+      "fr_code": "644"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "화랑대",
+      "fr_code": "646"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "공릉",
+      "fr_code": "716"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "먹골",
+      "fr_code": "718"
+    }
+  ],
+  "화랑대": [
+    {
+      "line_num": "06호선",
+      "station_nm": "태릉입구",
+      "fr_code": "645"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "봉화산",
+      "fr_code": "647"
+    }
+  ],
+  "봉화산": [
+    {
+      "line_num": "06호선",
+      "station_nm": "화랑대",
+      "fr_code": "646"
+    },
+    {
+      "line_num": "06호선",
+      "station_nm": "신내",
+      "fr_code": "648"
+    }
+  ],
+  "신내": [
+    {
+      "line_num": "06호선",
+      "station_nm": "봉화산",
+      "fr_code": "647"
+    }
+  ],
+  "장암": [
+    {
+      "line_num": "07호선",
+      "station_nm": "도봉산",
+      "fr_code": "710"
+    }
+  ],
+  "수락산": [
+    {
+      "line_num": "07호선",
+      "station_nm": "도봉산",
+      "fr_code": "710"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "마들",
+      "fr_code": "712"
+    }
+  ],
+  "마들": [
+    {
+      "line_num": "07호선",
+      "station_nm": "수락산",
+      "fr_code": "711"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "노원",
+      "fr_code": "713"
+    }
+  ],
+  "중계": [
+    {
+      "line_num": "07호선",
+      "station_nm": "노원",
+      "fr_code": "713"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "하계",
+      "fr_code": "715"
+    }
+  ],
+  "하계": [
+    {
+      "line_num": "07호선",
+      "station_nm": "중계",
+      "fr_code": "714"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "공릉",
+      "fr_code": "716"
+    }
+  ],
+  "공릉": [
+    {
+      "line_num": "07호선",
+      "station_nm": "하계",
+      "fr_code": "715"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "태릉입구",
+      "fr_code": "717"
+    }
+  ],
+  "먹골": [
+    {
+      "line_num": "07호선",
+      "station_nm": "태릉입구",
+      "fr_code": "717"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "중화",
+      "fr_code": "719"
+    }
+  ],
+  "중화": [
+    {
+      "line_num": "07호선",
+      "station_nm": "먹골",
+      "fr_code": "718"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "상봉",
+      "fr_code": "720"
+    }
+  ],
+  "상봉": [
+    {
+      "line_num": "07호선",
+      "station_nm": "중화",
+      "fr_code": "719"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "면목",
+      "fr_code": "721"
+    }
+  ],
+  "면목": [
+    {
+      "line_num": "07호선",
+      "station_nm": "상봉",
+      "fr_code": "720"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "사가정",
+      "fr_code": "722"
+    }
+  ],
+  "사가정": [
+    {
+      "line_num": "07호선",
+      "station_nm": "면목",
+      "fr_code": "721"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "용마산",
+      "fr_code": "723"
+    }
+  ],
+  "용마산": [
+    {
+      "line_num": "07호선",
+      "station_nm": "사가정",
+      "fr_code": "722"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "중곡",
+      "fr_code": "724"
+    }
+  ],
+  "중곡": [
+    {
+      "line_num": "07호선",
+      "station_nm": "용마산",
+      "fr_code": "723"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "군자",
+      "fr_code": "725"
+    }
+  ],
+  "어린이대공원": [
+    {
+      "line_num": "07호선",
+      "station_nm": "군자",
+      "fr_code": "725"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "건대입구",
+      "fr_code": "727"
+    }
+  ],
+  "뚝섬유원지": [
+    {
+      "line_num": "07호선",
+      "station_nm": "건대입구",
+      "fr_code": "727"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "청담",
+      "fr_code": "729"
+    }
+  ],
+  "청담": [
+    {
+      "line_num": "07호선",
+      "station_nm": "뚝섬유원지",
+      "fr_code": "728"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "강남구청",
+      "fr_code": "730"
+    }
+  ],
+  "강남구청": [
+    {
+      "line_num": "07호선",
+      "station_nm": "청담",
+      "fr_code": "729"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "학동",
+      "fr_code": "731"
+    }
+  ],
+  "학동": [
+    {
+      "line_num": "07호선",
+      "station_nm": "강남구청",
+      "fr_code": "730"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "논현",
+      "fr_code": "732"
+    }
+  ],
+  "논현": [
+    {
+      "line_num": "07호선",
+      "station_nm": "학동",
+      "fr_code": "731"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "반포",
+      "fr_code": "733"
+    }
+  ],
+  "반포": [
+    {
+      "line_num": "07호선",
+      "station_nm": "논현",
+      "fr_code": "732"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "고속터미널",
+      "fr_code": "734"
+    }
+  ],
+  "내방": [
+    {
+      "line_num": "07호선",
+      "station_nm": "고속터미널",
+      "fr_code": "734"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "이수",
+      "fr_code": "736"
+    }
+  ],
+  "이수": [
+    {
+      "line_num": "07호선",
+      "station_nm": "내방",
+      "fr_code": "735"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "남성",
+      "fr_code": "737"
+    }
+  ],
+  "남성": [
+    {
+      "line_num": "07호선",
+      "station_nm": "이수",
+      "fr_code": "736"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "숭실대입구",
+      "fr_code": "738"
+    }
+  ],
+  "숭실대입구": [
+    {
+      "line_num": "07호선",
+      "station_nm": "남성",
+      "fr_code": "737"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "상도",
+      "fr_code": "739"
+    }
+  ],
+  "상도": [
+    {
+      "line_num": "07호선",
+      "station_nm": "숭실대입구",
+      "fr_code": "738"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "장승배기",
+      "fr_code": "740"
+    }
+  ],
+  "장승배기": [
+    {
+      "line_num": "07호선",
+      "station_nm": "상도",
+      "fr_code": "739"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "신대방삼거리",
+      "fr_code": "741"
+    }
+  ],
+  "신대방삼거리": [
+    {
+      "line_num": "07호선",
+      "station_nm": "장승배기",
+      "fr_code": "740"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "보라매",
+      "fr_code": "742"
+    }
+  ],
+  "보라매": [
+    {
+      "line_num": "07호선",
+      "station_nm": "신대방삼거리",
+      "fr_code": "741"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "신풍",
+      "fr_code": "743"
+    }
+  ],
+  "신풍": [
+    {
+      "line_num": "07호선",
+      "station_nm": "보라매",
+      "fr_code": "742"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "대림",
+      "fr_code": "744"
+    }
+  ],
+  "남구로": [
+    {
+      "line_num": "07호선",
+      "station_nm": "대림",
+      "fr_code": "744"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "가산디지털단지",
+      "fr_code": "746"
+    }
+  ],
+  "가산디지털단지": [
+    {
+      "line_num": "07호선",
+      "station_nm": "남구로",
+      "fr_code": "745"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "철산",
+      "fr_code": "747"
+    }
+  ],
+  "철산": [
+    {
+      "line_num": "07호선",
+      "station_nm": "가산디지털단지",
+      "fr_code": "746"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "광명사거리",
+      "fr_code": "748"
+    }
+  ],
+  "광명사거리": [
+    {
+      "line_num": "07호선",
+      "station_nm": "철산",
+      "fr_code": "747"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "천왕",
+      "fr_code": "749"
+    }
+  ],
+  "천왕": [
+    {
+      "line_num": "07호선",
+      "station_nm": "광명사거리",
+      "fr_code": "748"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "온수",
+      "fr_code": "750"
+    }
+  ],
+  "까치울": [
+    {
+      "line_num": "07호선",
+      "station_nm": "온수",
+      "fr_code": "750"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "부천종합운동장",
+      "fr_code": "752"
+    }
+  ],
+  "부천종합운동장": [
+    {
+      "line_num": "07호선",
+      "station_nm": "까치울",
+      "fr_code": "751"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "춘의",
+      "fr_code": "753"
+    }
+  ],
+  "춘의": [
+    {
+      "line_num": "07호선",
+      "station_nm": "부천종합운동장",
+      "fr_code": "752"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "신중동",
+      "fr_code": "754"
+    }
+  ],
+  "신중동": [
+    {
+      "line_num": "07호선",
+      "station_nm": "춘의",
+      "fr_code": "753"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "부천시청",
+      "fr_code": "755"
+    }
+  ],
+  "부천시청": [
+    {
+      "line_num": "07호선",
+      "station_nm": "신중동",
+      "fr_code": "754"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "상동",
+      "fr_code": "756"
+    }
+  ],
+  "상동": [
+    {
+      "line_num": "07호선",
+      "station_nm": "부천시청",
+      "fr_code": "755"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "삼산체육관",
+      "fr_code": "757"
+    }
+  ],
+  "삼산체육관": [
+    {
+      "line_num": "07호선",
+      "station_nm": "상동",
+      "fr_code": "756"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "굴포천",
+      "fr_code": "758"
+    }
+  ],
+  "굴포천": [
+    {
+      "line_num": "07호선",
+      "station_nm": "삼산체육관",
+      "fr_code": "757"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "부평구청",
+      "fr_code": "759"
+    }
+  ],
+  "부평구청": [
+    {
+      "line_num": "07호선",
+      "station_nm": "굴포천",
+      "fr_code": "758"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "산곡",
+      "fr_code": "760"
+    }
+  ],
+  "산곡": [
+    {
+      "line_num": "07호선",
+      "station_nm": "부평구청",
+      "fr_code": "759"
+    },
+    {
+      "line_num": "07호선",
+      "station_nm": "석남",
+      "fr_code": "761"
+    }
+  ],
+  "석남": [
+    {
+      "line_num": "07호선",
+      "station_nm": "산곡",
+      "fr_code": "760"
+    }
+  ],
+  "암사": [
+    {
+      "line_num": "08호선",
+      "station_nm": "천호",
+      "fr_code": "811"
+    }
+  ],
+  "강동구청": [
+    {
+      "line_num": "08호선",
+      "station_nm": "천호",
+      "fr_code": "811"
+    },
+    {
+      "line_num": "08호선",
+      "station_nm": "몽촌토성",
+      "fr_code": "813"
+    }
+  ],
+  "몽촌토성": [
+    {
+      "line_num": "08호선",
+      "station_nm": "강동구청",
+      "fr_code": "812"
+    },
+    {
+      "line_num": "08호선",
+      "station_nm": "잠실",
+      "fr_code": "814"
+    }
+  ],
+  "석촌": [
+    {
+      "line_num": "08호선",
+      "station_nm": "잠실",
+      "fr_code": "814"
+    },
+    {
+      "line_num": "08호선",
+      "station_nm": "송파",
+      "fr_code": "816"
+    }
+  ],
+  "송파": [
+    {
+      "line_num": "08호선",
+      "station_nm": "석촌",
+      "fr_code": "815"
+    },
+    {
+      "line_num": "08호선",
+      "station_nm": "가락시장",
+      "fr_code": "817"
+    }
+  ],
+  "문정": [
+    {
+      "line_num": "08호선",
+      "station_nm": "가락시장",
+      "fr_code": "817"
+    },
+    {
+      "line_num": "08호선",
+      "station_nm": "장지",
+      "fr_code": "819"
+    }
+  ],
+  "장지": [
+    {
+      "line_num": "08호선",
+      "station_nm": "문정",
+      "fr_code": "818"
+    },
+    {
+      "line_num": "08호선",
+      "station_nm": "복정",
+      "fr_code": "820"
+    }
+  ],
+  "복정": [
+    {
+      "line_num": "08호선",
+      "station_nm": "장지",
+      "fr_code": "819"
+    },
+    {
+      "line_num": "08호선",
+      "station_nm": "남위례",
+      "fr_code": "821"
+    }
+  ],
+  "남위례": [
+    {
+      "line_num": "08호선",
+      "station_nm": "복정",
+      "fr_code": "820"
+    },
+    {
+      "line_num": "08호선",
+      "station_nm": "산성",
+      "fr_code": "822"
+    }
+  ],
+  "산성": [
+    {
+      "line_num": "08호선",
+      "station_nm": "남위례",
+      "fr_code": "821"
+    },
+    {
+      "line_num": "08호선",
+      "station_nm": "남한산성입구",
+      "fr_code": "823"
+    }
+  ],
+  "남한산성입구": [
+    {
+      "line_num": "08호선",
+      "station_nm": "산성",
+      "fr_code": "822"
+    },
+    {
+      "line_num": "08호선",
+      "station_nm": "단대오거리",
+      "fr_code": "824"
+    }
+  ],
+  "단대오거리": [
+    {
+      "line_num": "08호선",
+      "station_nm": "남한산성입구",
+      "fr_code": "823"
+    },
+    {
+      "line_num": "08호선",
+      "station_nm": "신흥",
+      "fr_code": "825"
+    }
+  ],
+  "신흥": [
+    {
+      "line_num": "08호선",
+      "station_nm": "단대오거리",
+      "fr_code": "824"
+    },
+    {
+      "line_num": "08호선",
+      "station_nm": "수진",
+      "fr_code": "826"
+    }
+  ],
+  "수진": [
+    {
+      "line_num": "08호선",
+      "station_nm": "신흥",
+      "fr_code": "825"
+    },
+    {
+      "line_num": "08호선",
+      "station_nm": "모란",
+      "fr_code": "827"
+    }
+  ],
+  "모란": [
+    {
+      "line_num": "08호선",
+      "station_nm": "수진",
+      "fr_code": "826"
+    }
+  ]
+}
